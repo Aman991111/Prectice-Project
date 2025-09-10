@@ -1,0 +1,46 @@
+
+                .▄▄ ·        ▄▄· ▪   ▄▄▄· ▄▄▌      ▄▄▄▄·       ▐▄• ▄ 
+                ▐█ ▀. ▪     ▐█ ▌▪██ ▐█ ▀█ ██•      ▐█ ▀█▪▪      █▌█▌▪
+                ▄▀▀▀█▄ ▄█▀▄ ██ ▄▄▐█·▄█▀▀█ ██▪      ▐█▀▀█▄ ▄█▀▄  ·██· 
+                ▐█▄▪▐█▐█▌.▐▌▐███▌▐█▌▐█ ▪▐▌▐█▌▐▌    ██▄▪▐█▐█▌.▐▌▪▐█·█▌
+                 ▀▀▀▀  ▀█▄▀▪·▀▀▀ ▀▀▀ ▀  ▀ .▀▀▀     ·▀▀▀▀  ▀█▄▀▪•▀▀ ▀▀  v2.beta
+
+ Select From Menu : 
+
+                 1 : Brute Force Demo  Account
+                 2 : Brute Force Demo  Account
+                 3 : Brute Force Demo   Account 1
+                 4 : Brute Force Demo  Account
+                 5 : Brute Force Demo   Account 2 
+                 6 : Brute Force Demo   Account 2
+                 99: Exit
+Choice >  3
+                         Demo Brute Force 1
+        [+] tor [+]
+./SocialBox.sh: line 99: sv: command not found
+
+  ------- Brute Forcer v1.0, Author: @thelinuxchoice (Github/IG)  
+
+Welcome!
+Username account: -----------------
+Password List (Enter to default list): ^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[/usr/demo/demo/demo         
+[*] Starting Tor on port: 9050
+[*] Starting Tor on port: 9052
+[*] Starting Tor on port: 9053
+[*] Starting Tor on port: 9054
+[*] Starting Tor on port: 9055
+[*] Checking Tor connection on port: 9050...FAIL!
+[*] Checking Tor connection on port: 9052...OK!
+[*] Checking Tor connection on port: 9053...OK!
+[*] Checking Tor connection on port: 9054...OK!
+[*] Checking Tor connection on port: 9055...FAIL!
+Require all TOR connection running to continue. Exiting
+               [+] Brute Force Complete [✓] [+]
+./SocialBox.sh: line 102: sv: command not found
+
+Wanna Back To Main Menu [ Y / n ] : ^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A
+
+
+
+
+
